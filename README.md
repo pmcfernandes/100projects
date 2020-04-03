@@ -28,7 +28,7 @@ And if you feel supportive, make sure you follow and support me on Social Media!
 | #   | Project
 |-----| --------
 | 001 | Random Meal Generator [Link](https://github.com/pmcfernandes/100projects/tree/master/001_Random_Meal_Generator)
-| 002 | 2019 Mood Calendar
+| 002 | 2019 Mood Calendar [Link](https://github.com/pmcfernandes/100projects/tree/master/002_Mood_Calendar)
 | 003 | Double Noise Flow Field
 | 004 | Catch the insect
 | 005 | User Profile Design

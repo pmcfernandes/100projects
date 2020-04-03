@@ -1,0 +1,40 @@
+.facesSelector {
+    width: 100%;
+    text-align: center;
+
+    & i {
+        font-size: 32px;
+        margin-left: 15px;
+        cursor: pointer;
+
+        &.color {
+            &-red {
+                color: lighten(red, 30%);
+            }
+
+            &-green {
+                color: lighten(green, 20%);
+            }
+
+            &-blue {
+                color: lighten(blue, 10%);
+            }
+
+            &-gray {
+                color: lighten(gray, 30%);
+            }
+
+            &-yellow {
+                color: darken(yellow, 10%);
+            }
+        }
+    }
+
+    & p {
+        font-size: 14px;
+
+        &:last-child {
+            margin-bottom: 30px;
+        }
+    }
+}
