@@ -32,7 +32,7 @@ And if you feel supportive, make sure you follow and support me on Social Media!
 | 003 | Double Noise Flow Field
 | 004 | Catch the insect
 | 005 | User Profile Design
-| 006 | Pokedex
+| 006 | Pokedex  [Link](https://github.com/pmcfernandes/100projects/tree/master/006_Pokedex)
 | 007 | James Bond Tribute Page
 | 008 | Live Twitter Feed
 | 009 | This or That (w/ dogs)
